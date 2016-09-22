@@ -3,7 +3,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/QingWei-Li/trims/badge.svg?branch=master)](https://coveralls.io/github/QingWei-Li/trims?branch=master)
 [![npm](https://img.shields.io/npm/v/trims.svg)](https://www.npmjs.com/package/trims)
 
-> trim string whitespace from object, array or string
+> Trimming string whitespace from object, array or string.
 
 ## Installation
 ```shell
