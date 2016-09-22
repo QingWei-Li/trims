@@ -1,0 +1,41 @@
+{
+  "name": "trims",
+  "version": "0.0.0",
+  "description": "trim string whitespace from object, array or string",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && nyc ava"
+  },
+  "xo": {
+    "space": true,
+    "rules": {
+      "semi": 0,
+      "curly": 0
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QingWei-Li/trims.git"
+  },
+  "keywords": [
+    "trim",
+    "string",
+    "object",
+    "array"
+  ],
+  "author": "qingwei-li <cinwell.li@gmail.com> (https://github.com/QingWei-Li)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QingWei-Li/trims/issues"
+  },
+  "homepage": "https://github.com/QingWei-Li/trims#readme",
+  "dependencies": {
+    "trim": "0.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "coveralls": "^2.11.14",
+    "nyc": "^8.3.0",
+    "xo": "^0.16.0"
+  }
+}
