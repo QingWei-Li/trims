@@ -1,6 +1,6 @@
 {
   "name": "trims",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "trim string whitespace from object, array or string",
   "main": "index.js",
   "scripts": {
